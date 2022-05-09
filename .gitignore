@@ -14,7 +14,7 @@
 *.vsix
 
 
-#Update!
+#Update!   //git rm --cached <File>
 temp
 main.c
 CSharp-101/
