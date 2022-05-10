@@ -15,3 +15,24 @@ $ git rm --cached temp
 $ git add .
 $ git commit -m "bla bla"
 $ git push -u origin master
+
+```
+## Markdown
+```
+*Italic*
+**Bold**
+# h1
+## h2
+### h3
+--- or ***  //Horizontal rule
+`Inline code` with backticks       ``` Code Block ```
+1. One
+2. Two
+3. Three
+* List
+  *list
+* List
+> Blockquote
+[link](url)
+![baslik](url) //image
+```
