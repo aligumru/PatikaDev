@@ -35,4 +35,6 @@ $ git push -u origin master
 > Blockquote
 [link](url)
 ![baslik](url) //image
+\ignore md character\
 ```
+For more information, see ["Relative Links."](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
