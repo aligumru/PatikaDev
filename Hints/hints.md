@@ -1,5 +1,5 @@
 ## Git Bash
-```java
+```javascript
 $ git init
 $ touch.exe temp
 $ git add .
@@ -18,7 +18,7 @@ $ git push -u origin master
 
 ```
 ## Markdown
-```java
+```c#
 *Italic*
 **Bold**
 # h1
