@@ -1,5 +1,5 @@
 ## Git Bash
-```java
+```p
 $ git init
 $ touch.exe temp
 $ git add .
