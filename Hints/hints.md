@@ -1,5 +1,5 @@
 ## Git Bash
-```p
+```java
 $ git init
 $ touch.exe temp
 $ git add .
@@ -18,7 +18,7 @@ $ git push -u origin master
 
 ```
 ## Markdown
-```
+```java
 *Italic*
 **Bold**
 # h1
