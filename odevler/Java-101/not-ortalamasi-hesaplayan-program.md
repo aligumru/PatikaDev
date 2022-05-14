@@ -1,4 +1,4 @@
-# Java 101
+# Java 101 Not Ortalamasi Hesaplayan Program Odevi
 ```java
 import java.util.Scanner;
 
