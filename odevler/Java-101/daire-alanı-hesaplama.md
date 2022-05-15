@@ -8,10 +8,10 @@ public class Main {
 
         Scanner inp = new Scanner(System.in);
         System.out.print("Dairenin yarı çapını giriniz: ");
-        r=inp.nextInt();
+        r=inp.nextDouble();
 
         System.out.print("Merkez açısının ölçüsünü giriniz: ");
-        a=inp.nextInt();
+        a=inp.nextDouble();
 
         alan= (pi * (r*r) * a) / 360;
 
