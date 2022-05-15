@@ -11,7 +11,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.print("İlk Sayıyı Giriniz : ");
         n1 = sc.nextInt();
-        System.out.println("1-Toplama" + "\n" + "2-Çıkarma" + "\n" + "3-Çarpma" + "\n" + "4-Bölme");
+        System.out.println("1-Toplama\n2-Çıkarma\n3-Çarpma\n4-Bölme");
         System.out.print("Seçiminiz : ");
         select = sc.nextInt();
         System.out.print("İkinci Sayıyı Giriniz : ");
