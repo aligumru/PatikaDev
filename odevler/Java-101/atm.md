@@ -1,4 +1,4 @@
-Switc ile Atm Ödevi
+Switch ile Atm Ödevi
 
 ```java
 import java.util.Scanner;
